@@ -1,0 +1,22 @@
+SHANTI CARE HOSPITAL
+(Sample bill - made up for practice only)
+
+FINAL BILL Bill No: SCH/2026/08/4417
+Patient Name : Mr. Ravi Kumar 
+Age/Sex : 34 / M
+Admitted on : 12/08/2026 
+Discharged on : 15/08/2026
+Room : Semi-Private 
+Doctor : Dr. A. Mehta
+Diagnosis : Dengue fever with low platelet count
+
+Sr Particulars                                           Amount (Rs.)
+1 Room rent (3 days x 3,000)                                 9,000.00
+2 Doctor visit charges                                       4,500.00
+3 Lab tests (CBC, NS1 antigen, platelets)                    3,200.00
+4 Medicines and IV fluids                                    5,850.00
+5 Nursing charges                                            2,400.00
+6 Consumables (gloves, syringes, masks)                      1,450.00
+----------
+NET PAYABLE                                                 26,400.00
+Amount in words: Rupees Twenty Six Thousand Four Hundred Only

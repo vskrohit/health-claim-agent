@@ -1,0 +1,7 @@
+# Secrets: never upload
+.env
+# This project's private Python (uv builds it again with "uv sync")
+.venv/
+# Files Python makes by itself
+__pycache__/
+*.pyc
